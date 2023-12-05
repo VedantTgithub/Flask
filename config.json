@@ -1,0 +1,20 @@
+{
+    "params":
+    {
+      "local_server":"True",
+      "local_uri": "mysql://root:@localhost/blog",
+      "prod_uri":"mysql://root:@localhost/blog",
+      "fb_url":"https://facebook.com/blog",
+      "tw_url":"https://twitter.com/blog",
+      "gh_url": "https://github.com/blog",
+      "blog_name": " Vedant's blog ",
+      "tag_line": "Heaven for programmers",
+      "gmail-user":"vedd0204@gmail.com",
+      "gmail-password":" Vedant@123",
+      "about_text" :"Hi my name is harry and I create programming tutorials and I am a good boy",
+      "no_of_posts": 5,
+      "admin_user":"Vedant@gmail.com",
+      "admin_password":"Vedant"
+    }
+  }
+  

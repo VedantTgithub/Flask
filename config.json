@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "params":
     {
@@ -17,4 +18,23 @@
       "admin_password":"Vedant"
     }
   }
+=======
+{
+    "params":
+    {
+      "local_server":"True",
+      "local_uri": "mysql://root:@localhost/blog",
+      "prod_uri":"mysql://root:@localhost/blog",
+      "fb_url":"https://facebook.com/blog",
+      "tw_url":"https://twitter.com/blog",
+      "gh_url": "https://github.com/blog",
+      "blog_name": " Vedant's blog ",
+      "tag_line": "Heaven for programmers",
+      "gmail-user":"vedd0204@gmail.com",
+      "gmail-password":" Vedant@123",
+      "about_text" :"Hi my name is harry and I create programming tutorials and I am a good boy",
+      "no_of_posts": 3
+    }
+  }
+>>>>>>> f41da5fdea82541b49ac7fcbaf2705e40d37de0a
   
